@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://aches.github.io/blog</id>
+    <id>https://aches.github.io/pixel</id>
     <title>Gridea</title>
-    <updated>2021-03-22T15:29:02.287Z</updated>
+    <updated>2021-03-22T15:30:42.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://aches.github.io/blog"/>
-    <link rel="self" href="https://aches.github.io/blog/atom.xml"/>
+    <link rel="alternate" href="https://aches.github.io/pixel"/>
+    <link rel="self" href="https://aches.github.io/pixel/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://aches.github.io/blog/images/avatar.png</logo>
-    <icon>https://aches.github.io/blog/favicon.ico</icon>
+    <logo>https://aches.github.io/pixel/images/avatar.png</logo>
+    <icon>https://aches.github.io/pixel/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[2]]></title>
-        <id>https://aches.github.io/blog/post/2/</id>
-        <link href="https://aches.github.io/blog/post/2/">
+        <id>https://aches.github.io/pixel/post/2/</id>
+        <link href="https://aches.github.io/pixel/post/2/">
         </link>
         <updated>2021-03-22T10:20:17.000Z</updated>
         <summary type="html"><![CDATA[<p>test2</p>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[e'e]]></title>
-        <id>https://aches.github.io/blog/post/ee/</id>
-        <link href="https://aches.github.io/blog/post/ee/">
+        <id>https://aches.github.io/pixel/post/ee/</id>
+        <link href="https://aches.github.io/pixel/post/ee/">
         </link>
         <updated>2021-03-22T09:26:26.000Z</updated>
         <content type="html"><![CDATA[<p>ee呃呃呃</p>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://aches.github.io/blog/post/test/</id>
-        <link href="https://aches.github.io/blog/post/test/">
+        <id>https://aches.github.io/pixel/post/test/</id>
+        <link href="https://aches.github.io/pixel/post/test/">
         </link>
         <updated>2021-03-22T09:16:13.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aches.github.io/blog/post/hello-gridea/</id>
-        <link href="https://aches.github.io/blog/post/hello-gridea/">
+        <id>https://aches.github.io/pixel/post/hello-gridea/</id>
+        <link href="https://aches.github.io/pixel/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Grideatest</strong> ！<br>
